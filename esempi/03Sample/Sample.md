@@ -1,0 +1,1 @@
+In questa sezione introdurremo l'uso di sample interni ed esterni a Sonic Pi

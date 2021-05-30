@@ -1,0 +1,1 @@
+In questa sezione presenteremo un paio di esempi di synth e il loro utilizzo

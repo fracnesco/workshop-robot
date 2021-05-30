@@ -1,0 +1,1 @@
+In questa sezione ti mostreremo come creare la tua prima nota ed il tuo primo loop in Sonic Pi

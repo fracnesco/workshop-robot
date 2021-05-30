@@ -1,0 +1,1 @@
+In questa sezione mostreremo come alcuni concetti dell'imperative programming (funzioni, condizionali, variabili ed iterazioni) possano essere applicati a Sonic Pi

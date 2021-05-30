@@ -1,0 +1,1 @@
+In questa sezione mostreremo alcuni esempi di come interfacciare Sonic Pi con il mondo esterno. Esempi includeranno l'utilizzo di Sonic Pi come controller MIDI per synth virtuali e fisici, come utilizzare i propri ScSynth in Sonic Pi, come mandare e ricevere OSC da/per Sonic Pi e molto altro

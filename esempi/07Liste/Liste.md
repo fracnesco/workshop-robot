@@ -1,0 +1,1 @@
+In questa sezione spiegheremo come usare liste per creare melodie, accordi e scale
