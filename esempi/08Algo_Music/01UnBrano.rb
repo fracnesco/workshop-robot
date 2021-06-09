@@ -8,8 +8,8 @@ live_loop :kick do
 end
 live_loop :synth do
   use_synth :prophet
-  play ((scale :e3, :minor_pentatonic).shuffle).tick, amp: 0.3
-  sleep ([0.5,0.75,0.25]).tick
+  play ((scale :e3, :minor_pentatonic).shuffle).tick(:note), amp: 0.3
+  sleep ([0.5,0.75,0.25]).tick(:durate)
 end
 live_loop :snare do
   sleep 0.5

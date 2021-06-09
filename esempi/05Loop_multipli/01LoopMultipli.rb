@@ -15,7 +15,7 @@ end
 
 live_loop :hat do
   sample :drum_cymbal_open, attack: 0.01, sustain: 0, release: 0.1, amp: 0.3, rate: 2
-  sleep [0.25,0.5,0.25,0.75].tick
+  sleep 0.25
 end
 
 # ora elimina il segno del cancelleto in questo codice che segue ed esegui il comando run!
